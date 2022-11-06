@@ -37,7 +37,7 @@ This api has a general endpoint that shows a list of articles that have been cre
 
 ---
 ## Base URL
-- somehostsite.com
+- https://blogingapi.herokuapp.com/
 
 
 ## Models
